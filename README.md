@@ -25,6 +25,8 @@ A machine learning project that identifies the type of wheat kernel based on geo
 
 **Want to get started immediately?** Check out our [Quick Start Guide](QUICKSTART.md) for a 5-minute setup!
 
+**Have questions?** See our [FAQ](FAQ.md) for common questions and answers.
+
 ## 🔍 Overview
 
 The Seed Prediction Model aims to categorize wheat kernels into three different varieties:
@@ -192,9 +194,11 @@ seed-prediction-model-for-kernel/
 │
 ├── README.md                                           # Main documentation (you are here)
 ├── QUICKSTART.md                                       # Quick start guide for immediate use
+├── FAQ.md                                              # Frequently asked questions
 ├── DATASET.md                                          # Detailed dataset documentation
 ├── METHODOLOGY.md                                      # Technical methodology explanation
 ├── CONTRIBUTING.md                                     # Contribution guidelines
+├── CHANGELOG.md                                        # Project version history
 ├── LICENSE                                             # MIT License
 ├── requirements.txt                                    # Python dependencies
 ├── .gitignore                                          # Git ignore file
